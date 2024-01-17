@@ -28,5 +28,5 @@
 
 **Hubungi kami sekarang juga untuk mendapatkan informasi lebih lanjut.**
 
-**Instagram: @azka.developer**
-**Telegram: t.me/azkadevbot** 
+Instagram: instagram.com/@azka.developer
+Telegram: t.me/azkadevbot

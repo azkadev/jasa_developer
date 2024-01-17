@@ -1,21 +1,32 @@
-# JasaDeveloper
+# Jasa Developer
+ 
+**Azka Developer: Solusi Digital untuk Bisnis Anda**
 
+**Hai, pemilik bisnis!**
 
----
+**Apakah Anda sedang mencari solusi digital untuk meningkatkan bisnis Anda?**
 
-### Demo
+**Azka Developer adalah solusi yang tepat untuk Anda.**
 
----
+**Kami adalah tim developer profesional yang berpengalaman dalam membuat aplikasi, software, dan bot.**
 
-### Install Library
+**Dengan jasa kami, Anda dapat:**
 
-```bash
-dart pub add jasa_developer
-```
+* **Meningkatkan penjualan**
+* **Meningkatkan kepuasan pelanggan**
+* **Mempermudah operasional bisnis**
 
-or flutter
+**Kami menawarkan berbagai layanan yang dapat membantu Anda meningkatkan bisnis Anda, antara lain:**
 
-```bash
-dart pub add jasa_developer_flutter
-```
- # jasa_developer
+* **Pembuatan aplikasi mobile dan web**
+* **Pengembangan software custom**
+* **Pembuatan bot untuk berbagai keperluan**
+
+**Kami juga menyediakan jasa belajar coding secara privat atau grup.**
+
+**Dengan belajar coding bersama kami, Anda dapat mempelajari dasar-dasar coding dengan cepat dan mudah.**
+
+**Hubungi kami sekarang juga untuk mendapatkan informasi lebih lanjut.**
+
+**Instagram: @azka.developer**
+**Telegram: t.me/azkadevbot** 
